@@ -1,3 +1,4 @@
+wsl
 pipeline {
     agent any
     parameters {
